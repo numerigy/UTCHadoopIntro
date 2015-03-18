@@ -1,5 +1,4 @@
-# UTCHadoopIntro
-Intro to Hadoop
+# UTC - Intro to Hadoop
 
 Course:
 - Advanced Queries & Business Reports
@@ -64,10 +63,11 @@ Overview of Hive and Pig
   - Run Hive examples
 
 - Pig
-Run Pig examples
-Point out Map/Reduce percentage as queries run
+  - High-level "scripting" atop MapReduce
+  - Run Pig examples
+  - Can see MapReduce progress on longer queries
 
 Intro to GitHub
 
-Brief history
-Creating an account
+- Brief history
+- Creating an account
