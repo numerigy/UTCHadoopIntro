@@ -71,6 +71,19 @@ Overview of Hive and Pig
   - Run Pig examples
   - Can see MapReduce progress on longer queries
 
+Local Big Data User Groups
+- CHadoop
+  - http://meetup.com/CHadoop
+  - https://github.com/CHadoop
+- Chattanooga Data Science R Users and Machine Learning
+  - http://www.meetup.com/Chattanooga-Data-Science-R-Users-and-Machine-Learning
+
+Installing Hadoop for Yourself
+
+- Installing Hadoop on MS Windows, Mac OS X, and Ubuntu
+- Download instructions and installation files from:
+  - <a href="https://github.com/CHadoop/InstallationGuide">CHad
+
 Intro to GitHub
 
 - Brief history
