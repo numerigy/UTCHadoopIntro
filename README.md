@@ -82,7 +82,7 @@ Installing Hadoop for Yourself
 
 - Installing Hadoop on MS Windows, Mac OS X, and Ubuntu
 - Download instructions and installation files from:
-  - <a href="https://github.com/CHadoop/InstallationGuide">CHad
+  - <a href="https://github.com/CHadoop/InstallationGuide">CHadoop
 
 Intro to GitHub
 
@@ -91,6 +91,17 @@ Intro to GitHub
   - Used by Linux creator Linus Torvalds and the kernel team
   - GitHub is a popular website frontend
   - Can create and share code in repositories (repo)
+- Free Kindle tutorial
+  - Ry's Git Tutorial
+- Quick reference
+  - git init
+  - git status
+  - git add <file>
+  - git commit
+  - git log
+  - git config ...
+    - git config --global user.name "<name>"
+    - git config --global user.email <email>
 - Creating an account
 - Installation
   - Mac
