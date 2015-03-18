@@ -21,7 +21,11 @@ Intro to Hadoop
   - Scalable, batch processing with reliable, redundant storage.
   - Built on two fundamental components
     - HDFS (Hadoop Distributed File System)
+      - Based on concepts from Google’s GFS paper:
+        - <a href="http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf">The Google File System</a>
     - MapReduce framework
+      - Based on 2004 paper from Google on MapReduce:
+        - <a href="http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf">MapReduce: Simplified Data Processing on Large Clusters</a>
       - Java-based (starting with v1)
       - Streaming, allows non-Java coding (starting with MRv2/YARN)
 - Examples of previous work and planned work
