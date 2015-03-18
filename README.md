@@ -3,11 +3,11 @@
 Course:
 - Advanced Queries & Business Reports
 - Dr. Beni Asllani
-- Presented by
-  - Joe France
+- Presented by Joe France
   - @joefrance
+  - joefrance@numerigy.com
 
-Lesson Plan
+<b>Lesson Plan</b>
 
 The lesson will cover two technologies:
   - Hadoop 5:45 PM to 7:15 PM - with break(s)
@@ -34,8 +34,9 @@ Intro to Hadoop
     - Error log analysis
     - Job and Craftsman skills match
     - Potential for marketing/zip code analysis
-  - Ceiling fan manufacturer
+  - Ceiling fan manufacturer (future plans)
     - Failure analysis
+    - Sentiment analysis of AS/400 text-based call logs from customer call-in
 
 Discussion
 
@@ -97,7 +98,7 @@ Intro to GitHub
   - git init
   - git status
   - git add <file>
-  - git commit
+  - git commit -m "Comment about changes"
   - git log
   - git config ...
     - git config --global user.name "<name>"
