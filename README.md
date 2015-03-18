@@ -98,6 +98,8 @@ Intro to GitHub
   - git init
   - git status
   - git add <file>
+  - git revert <ID>
+  - git rm <file>
   - git commit -m "Comment about changes"
   - git log
   - git config ...
