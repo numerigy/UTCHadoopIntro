@@ -100,3 +100,9 @@ Intro to GitHub
     - https://windows.github.com/
 - Adding a repo
   - The README.md file
+- Alternatives to GitHub
+  - Gitorious
+    - https://gitorious.org/
+  - GitLab
+    - https://about.gitlab.com/
+- http://www.boxuk.com/blog/a-tale-of-three-git-systems/
