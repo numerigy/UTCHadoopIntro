@@ -74,4 +74,10 @@ Overview of Hive and Pig
 Intro to GitHub
 
 - Brief history
+  - Git is a source control system
+  - Used by Linux creator Linus Torvalds and the kernel team
+  - GitHub is a popular website frontend
+  - Can create and share code in repositories (repo)
 - Creating an account
+- Adding a repo
+  - The README.md file
