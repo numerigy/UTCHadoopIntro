@@ -95,6 +95,7 @@ Intro to GitHub
 - Installation
   - Mac
     - https://mac.github.com/
+      - Choose to "Install Command Line Tools" during installation
   - Windows
     - https://windows.github.com/
 - Adding a repo
