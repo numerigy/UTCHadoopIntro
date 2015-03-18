@@ -92,5 +92,10 @@ Intro to GitHub
   - GitHub is a popular website frontend
   - Can create and share code in repositories (repo)
 - Creating an account
+- Installation
+  - Mac
+    - https://mac.github.com/
+  - Windows
+    - https://windows.github.com/
 - Adding a repo
   - The README.md file
