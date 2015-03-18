@@ -44,7 +44,7 @@ Discussion
   - Deep storage
   - Schema-on-read
 - MapReduce
-  -Java/JVM based paradigm
+  - Java/JVM based paradigm
   - MRv2/YARN - Streaming, can use ruby, other languages
   - This structure brings the code to the data
 
