@@ -101,8 +101,8 @@ Intro to GitHub
 - Adding a repo
   - The README.md file
 - Alternatives to GitHub
+  - http://www.boxuk.com/blog/a-tale-of-three-git-systems/
   - Gitorious
     - https://gitorious.org/
   - GitLab
     - https://about.gitlab.com/
-- http://www.boxuk.com/blog/a-tale-of-three-git-systems/
