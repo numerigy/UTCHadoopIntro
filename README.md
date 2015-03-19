@@ -1,5 +1,7 @@
 # UTC - Intro to Hadoop
 
+In the demo...
+
 Course:
 - Advanced Queries & Business Reports
 - Dr. Beni Asllani
