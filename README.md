@@ -29,7 +29,8 @@ Intro to Hadoop
       - Java-based (starting with v1)
       - Streaming, allows non-Java coding (starting with MRv2/YARN)
 - Examples of previous work and planned work
-  - Baseball streaming - listener stats
+  - Baseball streaming
+    - Listener stats
   - Handyman service
     - Error log analysis
     - Job and Craftsman skills match
