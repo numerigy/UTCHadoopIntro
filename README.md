@@ -37,10 +37,11 @@ Intro to Hadoop
   - Ceiling fan manufacturer (future plans)
     - Failure analysis
     - Sentiment analysis of AS/400 text-based call logs from customer call-in
-- Hadoop distrobutions
+- Hadoop distributions
   - Cloudera
   - Hortonworks
   - HDInsight
+  - Amazon Elastic MapReduce
 
 Discussion
 
