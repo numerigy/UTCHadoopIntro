@@ -42,6 +42,7 @@ Discussion
 
 - HDFS
   - Default of 3 copies of data
+  - Contains large block size to handle large numbers of files
   - Deep storage
   - Schema-on-read
 - MapReduce
@@ -51,11 +52,11 @@ Discussion
 
 MapReduce Example
 
-- Review WordCount Java code
-- Run WordCount example
+- Review WeatherData Java code
+- Run WeatherData example
   - Point out Map/Reduce percentage as job runs
-- Discuss WordCount example
-- Q & A about WordCount exampe
+- Discuss WeatherData example
+- Q & A about WeatherData exampe
 
 Overview of Hive and Pig
 
